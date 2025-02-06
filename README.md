@@ -29,11 +29,11 @@ See [Contributing](#contributing).
 
 ## Coffee
 
-**[`^        back to top        ^`](#awesome-coffee)**
+**[`^        back to top        ^`](#awesome-coffee-)**
 
 ### Equipment
 
-**[`^        back to top        ^`](#awesome-coffee)**
+**[`^        back to top        ^`](#awesome-coffee-)**
 
 #### Machines
 
@@ -53,7 +53,7 @@ See [Contributing](#contributing).
 
 ### Recipes
 
-**[`^        back to top        ^`](#awesome-coffee)**
+**[`^        back to top        ^`](#awesome-coffee-)**
 
 - [brewshare](https://brewshare.coffee/) - Database of [Fellow Aiden](https://fave.co/4aWjBKI) brew recipes. 
 
@@ -65,7 +65,7 @@ See [Contributing](#contributing).
 
 ### Reference
 
-**[`^        back to top        ^`](#awesome-coffee)**
+**[`^        back to top        ^`](#awesome-coffee-)**
 
 - [Grind Conversion Chart](https://docs.google.com/spreadsheets/u/0/d/1kMxKTusCOqBkvBj3SsEXgo_qBItmK8NTp5QNZE2Eqm8/htmlview?pli=1#gid=1248531944) - Google Sheet to convert grind ratio across different popular grinders. 
 
@@ -73,7 +73,7 @@ See [Contributing](#contributing).
 
 ## External Links
 
-**[`^        back to top        ^`](#awesome-coffee)**
+**[`^        back to top        ^`](#awesome-coffee-)**
 
 - [Fellow Products Reddit](https://www.reddit.com/r/fellowProducts/) - Community of Fellow Products consumers. 
 
@@ -81,9 +81,13 @@ See [Contributing](#contributing).
 
 ## Contributing
 
+**[`^        back to top        ^`](#awesome-coffee-)**
+
 Feel free to make pull requests or create issues with new resrouces to add. If the project grows I may implement a more robust contributing method but for now.
 
 ## License
+
+**[`^        back to top        ^`](#awesome-coffee-)**
 
 This list is under the Creative Commons Attribution-ShareAlike 3.0 Unported.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
