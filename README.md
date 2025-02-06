@@ -35,6 +35,10 @@ See [Contributing](#contributing).
 
 - [Fellow Aiden](https://fave.co/4aWjBKI) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
 
+#### Scales
+
+#### Grinders
+
 #### Pour Over
 
 #### Filters
