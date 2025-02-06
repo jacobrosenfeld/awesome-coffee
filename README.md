@@ -39,6 +39,8 @@ See [Contributing](#contributing).
 
 #### Grinders
 
+- [Baratza Encore](https://amzn.to/4aWqkUP) - Go to entry-level and relaible grinder. Baratza has top rated customer support. 
+
 #### Pour Over
 
 #### Filters
