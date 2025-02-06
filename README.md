@@ -13,6 +13,10 @@ See [Contributing](#contributing).
 
 - [Coffee Resources](#coffee)
   - [Equipment](#equipment)
+    - [Machines](#machines)
+    - [Scales](#scales)
+    - [Pour Over](#pour-over)
+    - [Filters](#filters)
   - [Recipes](#recipes)
   - [Reference](#reference)
 - [List of Licenses](#list-of-licenses)
