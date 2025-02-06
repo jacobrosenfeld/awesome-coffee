@@ -1,7 +1,7 @@
 # Awesome-Coffee ☕
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M314FOFQ)
 
-This is a list of resources [network services](https://en.wikipedia.org/wiki/Network_service) for coffee brewing.
+This is a curated list of resources for coffee brewing.
 
 Many resources may be centered around the [Fellow Aiden](https://fave.co/4aWjBKI) coffee machine as this my personal brewer. 
 
