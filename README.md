@@ -21,6 +21,7 @@ See [Contributing](#contributing).
     - [Maintenance](#maintenance)
   - [Recipes](#recipes)
   - [Reference](#reference)
+  - [Digital Resources](#digital-resources)
 - [List of Licenses](#list-of-licenses)
 - [External Links](#external-links)
 - [Contributing](#contributing)
@@ -65,7 +66,15 @@ See [Contributing](#contributing).
 
 - [brewshare](https://brewshare.coffee/) - Database of [Fellow Aiden](https://fave.co/4aWjBKI) brew recipes. 
 
+## Digital Resources
+
+**[`^        back to top        ^`](#awesome-coffee-)**
+
 - [Fellow Brew Studio](https://github.com/9b/fellow-aiden/tree/master/brew_studio) - This is an AI-generated interface to manage brew profiles built atop the [Fellow Aiden](https://fave.co/4aWjBKI) library. [Hosted Version](https://fellow-brew-studio.streamlit.app/)
+
+- [Brew.link to Aiden](https://greasyfork.org/en/scripts/524547-brew-link-to-aiden) - Browser plugin to sßend Brew.link profiles directly to your Fellow Aiden.
+
+
 
 
 
