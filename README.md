@@ -65,7 +65,8 @@ See [Contributing](#contributing).
 **[`^        back to top        ^`](#awesome-coffee-)**
 
 - [brewshare](https://brewshare.coffee/) - Database of [Fellow Aiden](https://fave.co/4aWjBKI) brew recipes. 
-- [Fellow Aiden Profiles](https://docs.google.com/spreadsheets/d/1mi-YS6JYfbX3wN1kZd6iu_q6mFlWM4Ah6N3Ox8eqRCA/edit?gid=0#gid=0) - Google Sheet with list of recipes and profiles. ([Source](https://www.home-barista.com/brewing/fellow-aiden-profiles-t95770.html))
+
+- [Fellow Aiden Profiles Google Sheet](https://docs.google.com/spreadsheets/d/1mi-YS6JYfbX3wN1kZd6iu_q6mFlWM4Ah6N3Ox8eqRCA/edit?gid=0#gid=0) - Google Sheet with list of recipes and profiles. ([Source](https://www.home-barista.com/brewing/fellow-aiden-profiles-t95770.html))
 
 ## Digital Resources
 
