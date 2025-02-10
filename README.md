@@ -17,6 +17,8 @@ See [Contributing](#contributing).
     - [Scales](#scales)
     - [Pour Over](#pour-over)
     - [Filters](#filters)
+    - [Kettles](#kettles)
+    - [Maintenance](#maintenance)
   - [Recipes](#recipes)
   - [Reference](#reference)
 - [List of Licenses](#list-of-licenses)
@@ -50,6 +52,10 @@ See [Contributing](#contributing).
 #### Filters
 
 #### Kettles
+
+#### Maintenance
+
+- [Cafiza](https://fave.co/3WWgIUd) - Go to cleaning capsules for espresso machines and coffee equipment. Urnex also makes [Tabz](https://amzn.to/3CHDdWc) which are similar. 
 
 ### Recipes
 
