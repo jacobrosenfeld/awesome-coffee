@@ -40,7 +40,7 @@ See [Contributing](#contributing).
 
 #### Machines
 
-- [Fellow Aiden](https://fave.co/4aWjBKI) - Open source, privacy first and simple analytics for mobile and desktop apps. ([Source Code](https://github.com/aptabase/aptabase)) `AGPL-3.0` `Docker`
+- [Fellow Aiden](https://fave.co/4aWjBKI) - Precision control meets unrivaled convenience. Brew pour-over quality coffee with the press of a button.
 
 #### Scales
 
