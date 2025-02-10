@@ -65,6 +65,7 @@ See [Contributing](#contributing).
 **[`^        back to top        ^`](#awesome-coffee-)**
 
 - [brewshare](https://brewshare.coffee/) - Database of [Fellow Aiden](https://fave.co/4aWjBKI) brew recipes. 
+- [Fellow Aiden Profiles](https://docs.google.com/spreadsheets/d/1mi-YS6JYfbX3wN1kZd6iu_q6mFlWM4Ah6N3Ox8eqRCA/edit?gid=0#gid=0) - Google Sheet with list of recipes and profiles. ([Source](https://www.home-barista.com/brewing/fellow-aiden-profiles-t95770.html))
 
 ## Digital Resources
 
@@ -75,14 +76,6 @@ See [Contributing](#contributing).
 - [Brew.link to Aiden](https://greasyfork.org/en/scripts/524547-brew-link-to-aiden) - Browser plugin to sßend Brew.link profiles directly to your [Fellow Aiden](https://fave.co/4aWjBKI). Created by: [NewsGuyTor](https://github.com/NewsGuyTor)
 
 - [FellowAiden-HomeAssistant](https://github.com/NewsGuyTor/FellowAiden-HomeAssistant) - This is a custom integration that brings your [Fellow Aiden](https://fave.co/4aWjBKI) coffee brewer into the Home Assistant universe. Because life’s too short for bad coffee and disconnected devices. Created by: [NewsGuyTor](https://github.com/NewsGuyTor)
-
-
-
-
-
-
-
-
 
 ### Reference
 
