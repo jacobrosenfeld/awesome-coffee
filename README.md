@@ -72,7 +72,7 @@ See [Contributing](#contributing).
 
 - [Fellow Brew Studio](https://github.com/9b/fellow-aiden/tree/master/brew_studio) - This is an AI-generated interface to manage brew profiles built atop the [Fellow Aiden](https://fave.co/4aWjBKI) library. [Hosted Version](https://fellow-brew-studio.streamlit.app/)
 
-- [Brew.link to Aiden](https://greasyfork.org/en/scripts/524547-brew-link-to-aiden) - Browser plugin to sßend Brew.link profiles directly to your Fellow Aiden.
+- [Brew.link to Aiden](https://greasyfork.org/en/scripts/524547-brew-link-to-aiden) - Browser plugin to sßend Brew.link profiles directly to your Fellow Aiden. (Created by: NewsGuyTor)
 
 
 
