@@ -54,6 +54,8 @@ See [Contributing](#contributing).
 
 - [Bunn 12 Cup Filters](https://amzn.to/3Q9U1Z9) - Is your brew overflowing the filter and spilling into the carafe? These are the "tallest" twelve cup filters around.
 
+- [Hario Pegasus Filters](https://amzn.to/3WXFjIu) - Great filters. Fit [Fellow Aiden](https://fave.co/4aWjBKI) perfectly.
+
 #### Kettles
 
 #### Maintenance
