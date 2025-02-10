@@ -72,7 +72,11 @@ See [Contributing](#contributing).
 
 - [Fellow Brew Studio](https://github.com/9b/fellow-aiden/tree/master/brew_studio) - This is an AI-generated interface to manage brew profiles built atop the [Fellow Aiden](https://fave.co/4aWjBKI) library. [Hosted Version](https://fellow-brew-studio.streamlit.app/)
 
-- [Brew.link to Aiden](https://greasyfork.org/en/scripts/524547-brew-link-to-aiden) - Browser plugin to sßend Brew.link profiles directly to your Fellow Aiden. (Created by: NewsGuyTor)
+- [Brew.link to Aiden](https://greasyfork.org/en/scripts/524547-brew-link-to-aiden) - Browser plugin to sßend Brew.link profiles directly to your [Fellow Aiden](https://fave.co/4aWjBKI). Created by: [NewsGuyTor](https://github.com/NewsGuyTor)
+
+- [FellowAiden-HomeAssistant](https://github.com/NewsGuyTor/FellowAiden-HomeAssistant) - This is a custom integration that brings your [Fellow Aiden](https://fave.co/4aWjBKI) coffee brewer into the Home Assistant universe. Because life’s too short for bad coffee and disconnected devices. Created by: [NewsGuyTor](https://github.com/NewsGuyTor)
+
+
 
 
 
