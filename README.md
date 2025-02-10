@@ -51,6 +51,8 @@ See [Contributing](#contributing).
 
 #### Filters
 
+- [Bunn 12 Cup Filters](https://amzn.to/3Q9U1Z9) - Is your brew overflowing the filter and spilling into the carafe? These are the "tallest" twelve cup filters around.
+
 #### Kettles
 
 #### Maintenance
